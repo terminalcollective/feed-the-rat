@@ -37,3 +37,19 @@ interval = 600
 url = "https://fosstodon.org/@ratatui_rs.rss"
 interval = 600
 ```
+
+---
+
+<div align="center">
+
+**No artificial intelligence was used in the making of this.**
+
+<a href="https://brainmade.org/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brainmade.org/white-logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://brainmade.org/black-logo.svg">
+  <img alt="brainmade" src="https://brainmade.org/white-logo.svg">
+</picture>
+</a>
+
+</div>
