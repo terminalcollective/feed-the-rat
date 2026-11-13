@@ -10,6 +10,11 @@ Tiny helper that listens to RSS feeds and POSTs to Discord via webhooks.
 
 </div>
 
+> [!WARNING]
+> 🚧 This project is still a **Work in Progress**. It's not ready-to-be-used.
+>
+> There ain't food to feed the rat yet 🐁.
+
 ## Configuration
 
 Copy `config.example.toml` to `config.toml` and setup the webhook URL and your feeds:
