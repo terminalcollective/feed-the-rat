@@ -5,6 +5,7 @@ use serde::Deserialize;
 #[derive(Debug, Deserialize)]
 pub struct Config {
     pub discord: DiscordConfig,
+    pub user_agent: String,
     pub feeds: HashMap<String, FeedConfig>,
 }
 
@@ -16,5 +17,5 @@ pub struct DiscordConfig {
 #[derive(Debug, Deserialize)]
 pub struct FeedConfig {
     pub url: String,
-    pub interval: usize,
+    pub interval: u64,
 }

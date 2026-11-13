@@ -1,3 +1,5 @@
+user_agent = "feed-the-rat-bot/0.1 (+https://github.com/terminalcollective/feed-the-rat)"
+
 [discord]
 webhook_url = "<put your discord webhook url here>"
 
