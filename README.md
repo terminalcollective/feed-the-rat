@@ -15,6 +15,8 @@ Tiny helper that listens to RSS feeds and POSTs to Discord via webhooks.
 Copy `config.example.toml` to `config.toml` and setup the webhook URL and your feeds:
 
 ```toml
+user_agent = "feed-the-rat-bot/0.1 (+https://github.com/terminalcollective/feed-the-rat)"
+
 [discord]
 webhook_url = "<put your discord webhook url here>"
 
